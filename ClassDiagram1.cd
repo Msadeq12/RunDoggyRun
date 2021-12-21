@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RunDoggyRun.Game1" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAgEAAAwAIAAAAAAAAAABAAAgCAIAAAAAAAA4=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RunDoggyRun.AboutScene" Collapsed="true">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAgAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Scenes\AboutScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RunDoggyRun.HelpScene" Collapsed="true">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAgQAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scenes\HelpScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RunDoggyRun.Menu" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAUAQAAAAAgAAAAAAIAAAAAAIgAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Scenes\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RunDoggyRun.PlayScene" Collapsed="true">
+    <Position X="9.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhYAiEAACEAAAwCAAAiAIQQAAIQAAQAAAAAAAAAAAKA=</HashCode>
+      <FileName>Scenes\PlayScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RunDoggyRun.Scene" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAhAAAACAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Scenes\Scene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RunDoggyRun.StartScene" Collapsed="true">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAQAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scenes\StartScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RunDoggyRun.Explosion" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAgEAAAUAIQhAAABAAAAAAABAAQAAAAA=</HashCode>
+      <FileName>Explosion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RunDoggyRun.Bomb" Collapsed="true">
+    <Position X="1.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgYAAkAAAAAABgAgCAAMMABBCYAABQCAAAABAAEAACA=</HashCode>
+      <FileName>Characters\Bomb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RunDoggyRun.Character" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DgQAAEgAAAAAAgAgAwAAIAACgAAAAQCAAAABAABAAAA=</HashCode>
+      <FileName>Characters\Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonoString.SimpleString" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
